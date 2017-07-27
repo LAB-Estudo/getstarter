@@ -199,3 +199,10 @@ Deve ser revisado...
 - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 - [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
 - [CodeCopy](https://chrome.google.com/webstore/detail/codecopy/fkbfebkcoelajmhanocgppanfoojcdmg)
+
+## Referência 
+Nós utilizamos alguns outros guias para a construção da nossa metodologia. 
+
+Para saber mais sobre nossas referências:
+
+- [Rafael Ribeiro](https://github.com/rafaelcorreiapoli/react-metodologia/blob/master/README.md)
