@@ -4,6 +4,7 @@ Para saber mais sobre as ferramentas, processos e padrões que utilizamos basta 
 
 - [Workflow](./WORKFLOW.md)
 - [ReactJS](./REACTJS.md)
+- [API REST](./APIREST.md)
 - [Deploy](./DEPLOY.md)
 - [Plugins](./PLUGINS.md)
 
