@@ -17,3 +17,8 @@ A separação de responsabilidades facilita a modularizaçãoMVS das funcionalid
 ## MVC em API
 
 Nota-se que para APIs, a parte da view não é aplicada. Assim mm APIs o controller recebe a requisição da rota, faz a chamada para o model realizar a lógica de negócio e retorna a resposta para o usuário.
+## Models
+Os models são responsáveis pelos dados, persistência e validação na aplicação.
+## Controllers
+Lançamos mão da implementação de um controller para administrar as requisições e conversar com o model. O próprio gerador de código do Express
+já cria o diretório para controllers separadamente.
