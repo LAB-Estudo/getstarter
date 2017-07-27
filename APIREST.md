@@ -3,13 +3,11 @@
 Guia para o contrução de APIs REST seguindo as melhores práticas de desenvolvimento de software e com cobertura de testes, utilizando Node.js e seguindo os princípios do TDD.
 ## Objetivos gerais
 
-+ Como construir aplicações modularizadas e desacopladas
-+ Como Integrar com banco de dados NoSQL utilizando MongoDB
-+ Como desenvolver guiado por testes com TDD
-+ Porque testes facilitam o desenvolvimento
-+ Como testar aplicações em javascript
-+ Como desenhar APIs seguindo o padrão REST
-+ Como prover autenticação e segurança de APIs
++ Orientar a construção de aplicações modularizadas e desacopladas
++ Orientar a integração com banco de dados NoSQL
++ Orientar o desenvolvimento guiado por testes com TDD
++ Orientar o desenho de APIs seguindo o padrão REST
++ Orientar a autenticação e segurança de APIs
 
 ## O padrão MVC
 
