@@ -1,22 +1,11 @@
-# MQLab ReactJS metodologia de desenvolvimento
+# MQLab design pattern
 
-## Bibliotecas utilizadas
+Para saber mais sobre as ferramentas, processos e padrões que utilizamos basta acompanhar os links.
 
-Escrevendo...
-
-## Overview
-
-Escrevendo...
-
-## Containers
-
-Escrevendo...
-
-## Extras
-
-Escrevendo...
-
-Aqui temos algumas ferramentas que utilizamos no dia a dia para desenvolver.
+- [Workflow](./WORKFLOW.md)
+- [ReactJS](./REACTJS.md)
+- [Deploy](./DEPLOY.md)
+- [Plugins](./PLUGINS.md)
 
 ## Referência
 
