@@ -36,6 +36,7 @@ Destacamos ainda as bibliotecas de suporte que se separam em diversas responsabi
 ## Estrutura de diretórios e arquivos
 
 ```javascript
+
 ├── package.json
 ├── server.js
 ├── src
