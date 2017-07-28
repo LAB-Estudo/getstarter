@@ -30,8 +30,21 @@ respondendo com true ou false para o runner.
 
 Destacamos ainda as bibliotecas de suporte que se separam em diversas responsabilidades, como por exemplo:
 
-+ para fazer mocks e spys temos o [SinonJS](http://sinonjs.org/)
-+ já para emular servidores existe o [supertest](https://github.com/visionmedia/supertest)
++ Para fazer mocks e spys temos o [SinonJS](http://sinonjs.org/)
++ Para emular servidores existe o [supertest](https://github.com/visionmedia/supertest)
+
+## Estrutura de diretórios e arquivos
+
+```javascript
+├── package.json
+├── server.js
+├── src
+│   ├── controllers
+│   ├── middlewares
+│   └── models
+│   └── app.js
+└── tests
+```
 
 ## O padrão MVC
 
