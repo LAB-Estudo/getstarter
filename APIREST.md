@@ -9,6 +9,30 @@ Guia para o contrução de APIs REST seguindo as melhores práticas de desenvolv
 + Orientar o desenho de APIs seguindo o padrão REST
 + Orientar a autenticação e segurança de APIs
 
+## Desenvolvimento guiado por testes
+
+Seguir um modelo conhecido como TDD (Test Driven Development ou Desenvolvimento Guiado por Testes).
+
+## Ambiente de Testes JavaScript
+
+Componentes que fazem parte de uma suíte de testes em javascript:
+
+## Test runners
+
+Test runners são responsáveis por importar os arquivos de testes e executar os casos de teste.
+
++ Utilizamos o [Mocha](https://github.com/mochajs/mocha) como nosso test runners.
+
+Vale destacar ainda o uso de bibliotecas de assert que verificam se o teste está cumprindo com o determinado fazendo a afirmação e
+respondendo com true ou false para o runner.
+
++ Utilizamos o [chai](https://github.com/chaijs/chai) como nossa biblioteca assert.
+
+Destacamos ainda as bibliotecas de suporte que se separam em diversas responsabilidades, como por exemplo:
+
++ para fazer mocks e spys temos o [SinonJS](http://sinonjs.org/)
++ já para emular servidores existe o [supertest](https://github.com/visionmedia/supertest)
+
 ## O padrão MVC
 
 MVC é um design pattern de arquitetura que foca na separação de responsabilidades. O MVC separa os dados de negócio (Models) da interface do usuário (Views) e usa um componente para ligá-los (Controllers), normalmente os controllers são responsáveis por receber a entrada do usuário e coordenar Models e Views.
