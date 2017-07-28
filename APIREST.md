@@ -1,6 +1,6 @@
 # Guia de Design da API
 
-Guia para o contrução de APIs REST seguindo as melhores práticas de desenvolvimento de software e com cobertura de testes, utilizando Node.js e seguindo os princípios do TDD.
+Guia para o contrução de APIs REST seguindo as melhores práticas de desenvolvimento de software, com cobertura de testes, utilizando Node.js e seguindo os princípios do TDD.
 
 Temos aqui como objetivos gerais:
 
