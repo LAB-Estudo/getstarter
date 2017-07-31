@@ -1,17 +1,7 @@
-# MQLab design pattern
+# MQLab get starter
 
-Para saber mais sobre as ferramentas, processos e padrões que utilizamos basta acompanhar os links.
+Olá seja muito bem vindo ao MQLab. É muito bom saber que a equipe está crescendo cada vez mais.
 
-- [Workflow](./WORKFLOW.md)
-- [ReactJS](./REACTJS.md)
-- [API REST](./APIREST.md)
-- [Deploy](./DEPLOY.md)
-- [Plugins](./PLUGINS.md)
+Como nosso projeto não para de crescer e nossa equipe tambem não, descidimos construir uma wiki para centralizar as informações referente a toda pilha tecnologica que utilizamos no lab. Você poderá entender todas as ferramentas e tecnologias que utilizamos, o porque nós a escolhemos e a função de cada uma delas. Na wiki nós esplicamos como funciona o nosso workflow de desenvolvimento, como o front-end e o back-end foram estruturado.
 
-## Referência
-
-Nós utilizamos alguns outros guias para a construção da nossa metodologia.
-
-Para saber mais sobre nossas referências:
-
-- [Rafael Ribeiro](https://github.com/rafaelcorreiapoli/react-metodologia/blob/master/README.md)
+Para saber mais sobre as ferramentas, processos e padrões que utilizamos basta acessar o [link](https://github.com/MastermaqLab/getstarter/wiki) da nossa wiki.
